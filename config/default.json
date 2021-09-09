@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://tai123:tai123@devconnector.friet.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken"
+}
