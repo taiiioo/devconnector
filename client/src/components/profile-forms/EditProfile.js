@@ -3,7 +3,7 @@ import { Link, withRouter } from 'react-router-dom'
 import PropTypes from 'prop-types'
 import { connect } from 'react-redux'
 import { createProfile, getCurrentProfile } from '../../actions/profile'
-import { profile_url } from 'gravatar'
+// import { profile_url } from 'gravatar'
 
 const EditProfile = ({ profile: { profile, loading }, createProfile, getCurrentProfile, history }) => {
     const [formData, setFormData] = useState({

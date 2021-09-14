@@ -29,7 +29,7 @@ export const Landing = ({ isAuthenticated }) => {
 }
 
 Landing.propTypes = {
-
+    isAuthenticated: Proptypes.bool
 }
 
 const mapStateToProps = state => ({

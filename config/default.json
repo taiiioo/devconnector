@@ -1,6 +1,5 @@
 {
     "mongoURI": "mongodb+srv://tai123:tai123@devconnector.friet.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
     "jwtSecret": "mysecrettoken",
-    "githubClientId": "b25e411fa8b9e3548448",
-    "githubSecret": "153da4c55393ebeb13a52b250c2606d5805fa70b"
+    "githubToken": "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"
 }
